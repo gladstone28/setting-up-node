@@ -29,7 +29,8 @@ If you need additional help setting up Node, or are using a Windows computer ple
 ### Mac
 
 [Youtube-mac version](https://youtu.be/uDlvILzTdh0)
+[Setting up mode.js on MAC OS](https://www.youtube.com/watch?v=uDlvILzTdh0)
 
 ### Windows
 
-![](./https://youtu.be/gbtsq3ICMBM)
+[Setting up node.js on Windows](https://www.youtube.com/watch?v=gbtsq3ICMBM)
