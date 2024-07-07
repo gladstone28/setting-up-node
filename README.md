@@ -3,13 +3,13 @@ https://www.codecademy.com/paths/build-web-apps-with-react/tracks/intro-to-build
 
 ### Setting Up Node
 
-## Install Node on your computer to utilize Node packages
+**Install Node on your computer to utilize Node packages**
 
 This video will show you how to download and install Node.
 
-[Video](./nodejs.mp4)
+[Setting up node1](./nodejs.mp4)
 
-[video](https://content.codecademy.com/articles/nodejs/nodejs.mp4)
+[Setting up node2](https://content.codecademy.com/articles/nodejs/nodejs.mp4)
 
 This program will use Node Package Manager to install and use essential JavaScript libraries. You will need to install Node on your computer to enable this functionality.
 
@@ -29,6 +29,8 @@ If you need additional help setting up Node, or are using a Windows computer ple
 ### Mac
 
 [Youtube-mac version](https://youtu.be/uDlvILzTdh0)
+> 
+
 [Setting up mode.js on MAC OS](https://www.youtube.com/watch?v=uDlvILzTdh0)
 
 ### Windows
