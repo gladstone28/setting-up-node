@@ -2,8 +2,9 @@ link to this lesson:
 https://www.codecademy.com/paths/build-web-apps-with-react/tracks/intro-to-building-web-apps-with-React/modules/dev-setup-webdev/articles/bwa-node-setup
 
 
-Setting Up Node
-Install Node on your computer to utilize Node packages
+### Setting Up Node
+
+## Install Node on your computer to utilize Node packages
 
 This video will show you how to download and install Node.
 
