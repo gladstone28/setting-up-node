@@ -9,6 +9,8 @@ This video will show you how to download and install Node.
 
 [Video](./nodejs.mp4)
 
+[video](https://content.codecademy.com/articles/nodejs/nodejs.mp4)
+
 This program will use Node Package Manager to install and use essential JavaScript libraries. You will need to install Node on your computer to enable this functionality.
 
 Download the version of Node labeled “LTS” on the main page of the [Node website](https://nodejs.org/en/). For additional download options, such as different operating systems and versions, you can navigate to the [Node downloads page](https://nodejs.org/en/download/package-manager).
@@ -26,7 +28,7 @@ If you need additional help setting up Node, or are using a Windows computer ple
 
 ### Mac
 
-[](https://youtu.be/uDlvILzTdh0)
+[Youtube-mac version](https://youtu.be/uDlvILzTdh0)
 
 ### Windows
 
