@@ -7,7 +7,7 @@ https://www.codecademy.com/paths/build-web-apps-with-react/tracks/intro-to-build
 
 This video will show you how to download and install Node.
 
-[Setting up node2](https://content.codecademy.com/articles/nodejs/nodejs.mp4)
+[Setting up node](https://content.codecademy.com/articles/nodejs/nodejs.mp4)
 
 This program will use Node Package Manager to install and use essential JavaScript libraries. You will need to install Node on your computer to enable this functionality.
 
@@ -17,7 +17,7 @@ After your download is complete, open the downloaded installation package and fo
 
 After installation, open your command line application of choice (if you already have a terminal open, make sure to close it and open a new terminal to get access to your installation), type node, and press enter/return. You should be put into an interactive JavaScript console. Your command line is now ready to use Node!
 
-Type console.log('Hello World!'); and press enter. You should see Hello World printed to the console.
+Type **console.log('Hello World!');** and press enter. You should see **Hello World** printed to the console.
 
 Press the control button (CTRL) and C (CTRL-C) at the same time to exit the JavaScript console.
 
