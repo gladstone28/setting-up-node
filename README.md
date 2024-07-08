@@ -7,8 +7,6 @@ https://www.codecademy.com/paths/build-web-apps-with-react/tracks/intro-to-build
 
 This video will show you how to download and install Node.
 
-[Setting up node1](./nodejs.mp4)
-
 [Setting up node2](https://content.codecademy.com/articles/nodejs/nodejs.mp4)
 
 This program will use Node Package Manager to install and use essential JavaScript libraries. You will need to install Node on your computer to enable this functionality.
